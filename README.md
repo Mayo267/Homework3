@@ -1,1 +1,2 @@
-# Homework3
+# Word-Guess-Game
+Hangman game - Homework #3
